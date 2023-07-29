@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="google_map_key">AIzaSyBSNyp6GQnnKlrMr7hD2HGiyF365tFlK5U</string>
+
+    <string name="no_place_available_lets_start_by_adding_few_places">No place available.\nLets start by adding few places</string>
+    <string name="add_poi">Add POI</string>
+    <string name="enter_your_location">Enter your location</string>
+    <string name="result">Result</string>
+    <string name="search_place">Search Place</string>
+    <string name="do_you_want_to_save_this_selected_location">Do you want to save this selected location?</string>
+    <string name="save">Save</string>
+    <string name="primary">Primary</string>
+    <string name="sort_distance_in_ascending_order">Sort distance in ascending order</string>
+    <string name="sort_distance_in_descending_order">Sort distance in descending order</string>
+</resources>
